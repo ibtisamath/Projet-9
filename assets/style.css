@@ -353,3 +353,12 @@ input[type="submit"] {
 		width: 80%;
 	}
 }
+footer div { 
+	background-color:#BEB45A;
+	color:black;
+	padding:32px 0px;
+	align-items: center;
+}
+footer div a {
+	text-decoration:none
+}
